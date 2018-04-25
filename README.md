@@ -6,18 +6,18 @@ We (Yan Zhao and Rui Wang) implement sparse singular value decomposition algorit
 
 Also, we optimize this algorithim and apply this algorithim on both simulation dataset and lung cancer dataset.This repository includes following files 
 
-Optimization.ipynb 
+## Optimization.ipynb 
 
 We use JIT, multiprocess and ipyParallel to optimize original python code
 
-lung cancer data plot.ipynb
+## lung cancer data plot.ipynb
 
 We use ssvd algorithim on real lung cancer data stored in lung cancer data.txt to visuallize how this algorithim identify co－regulated genes for differnt cancer types.
 
-Simulation.ipynb
+## Simulation.ipynb
 
 We implement two simulation studies to test the performance of SSVD function.
 
-Implementation of Biclustering via SSVD
+## Implementation of Biclustering via SSVD
 
 pdf report
